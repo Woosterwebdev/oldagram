@@ -87,5 +87,10 @@ html, body {
 
 .icon:hover,
 .icon:focus {
-    opacity: .5;
+    opacity: .3;
 }
+
+/* padding for stick header */
+/* section {
+    padding-top: 72px;
+} */
